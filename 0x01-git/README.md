@@ -1,1 +1,2 @@
-This is the read me file
+Alx software engineering 
+Shell project
